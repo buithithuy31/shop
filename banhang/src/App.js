@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Hello world!
+          project shop ban hang
         </p>
         <a>
           Learn React
